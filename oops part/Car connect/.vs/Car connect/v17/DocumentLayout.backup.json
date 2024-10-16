@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4F6D2A-95E4-447C-A33C-59C7E4C38C71}|Car connect\\Car connect.csproj|c:\\users\\adarsh sharma\\desktop\\case study\\oops part\\car connect\\car connect\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F6D2A-95E4-447C-A33C-59C7E4C38C71}|Car connect\\Car connect.csproj|solutionrelative:car connect\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|c:\\users\\adarsh sharma\\desktop\\case study\\oops part\\car connect\\carconnect.tests\\reservationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|solutionrelative:carconnect.tests\\reservationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|c:\\users\\adarsh sharma\\desktop\\case study\\oops part\\car connect\\carconnect.tests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|solutionrelative:carconnect.tests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47A0719-54CC-406D-B0FB-DFA2AEBECDA7}|CarConnect.Tests\\CarConnect.Tests.csproj|solutionrelative:carconnect.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.utils\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|solutionrelative:carconnect.utils\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.utils\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|solutionrelative:carconnect.utils\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.utils\\carconnect.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ABE1CC0B-2C6A-4060-9E0B-2057E83B9939}|CarConnect.Utils\\CarConnect.Utils.csproj|solutionrelative:carconnect.utils\\carconnect.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9A0123-68B6-4F48-9806-B5263B0819C9}|CarConnect.Entity\\CarConnect.Entity.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9A0123-68B6-4F48-9806-B5263B0819C9}|CarConnect.Entity\\CarConnect.Entity.csproj|solutionrelative:carconnect.entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\services\\carconnectimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\services\\carconnectimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\vehiclenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\vehiclenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\reservationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\reservationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\customernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\authenticationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\carconnect.businesslayer\\exceptions\\adminnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADDA8D-6305-4197-820E-30AAFDC423E4}|CarConnect.BusinessLayer\\CarConnect.BusinessLayer.csproj|solutionrelative:carconnect.businesslayer\\exceptions\\adminnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\ReservationServiceTests.cs",
+              "RelativeDocumentMoniker": "CarConnect.Tests\\ReservationServiceTests.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\ReservationServiceTests.cs",
+              "RelativeToolTip": "CarConnect.Tests\\ReservationServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:07:46.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\VehicleServiceTests.cs",
+              "RelativeDocumentMoniker": "CarConnect.Tests\\VehicleServiceTests.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\VehicleServiceTests.cs",
+              "RelativeToolTip": "CarConnect.Tests\\VehicleServiceTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:05:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:54:49.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "CarConnect.Tests\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Tests\\CustomerServiceTests.cs",
+              "RelativeToolTip": "CarConnect.Tests\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:51:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarConnect.exe.config",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\CarConnect.exe.config",
+              "RelativeDocumentMoniker": "CarConnect.Utils\\CarConnect.exe.config",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\CarConnect.exe.config",
+              "RelativeToolTip": "CarConnect.Utils\\CarConnect.exe.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-16T15:06:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Services\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\ReportGenerator.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Services\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:02:13.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:47:19.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Entity\\Reservation.cs",
+              "RelativeDocumentMoniker": "CarConnect.Entity\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Entity\\Reservation.cs",
+              "RelativeToolTip": "CarConnect.Entity\\Reservation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:43:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarConnectImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\CarConnectImplementation.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Services\\CarConnectImplementation.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Services\\CarConnectImplementation.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Services\\CarConnectImplementation.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:40:25.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:00:46.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:00:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:00:14.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IVehicleService.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:59:37.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IVehicleRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:59:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IReservationService.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IReservationService.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:59:03.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:57:25.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:56:36.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\DBConn.cs",
+              "RelativeDocumentMoniker": "CarConnect.Utils\\DBConn.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\DBConn.cs",
+              "RelativeToolTip": "CarConnect.Utils\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:44:17.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "CarConnect.Utils\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.Utils\\DatabaseInitializer.cs",
+              "RelativeToolTip": "CarConnect.Utils\\DatabaseInitializer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vxcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:37:35.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\VehicleNotFoundException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\VehicleNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\VehicleNotFoundException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\VehicleNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\ReservationException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\ReservationException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\ReservationException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\ReservationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseConnectionException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\DatabaseConnectionException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\DatabaseConnectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:15.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\CustomerNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\CustomerNotFoundException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\CustomerNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:13.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthenticationException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\AuthenticationException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\AuthenticationException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\AuthenticationException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\AuthenticationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\AdminNotFoundException.cs",
+              "RelativeDocumentMoniker": "CarConnect.BusinessLayer\\Exceptions\\AdminNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\CarConnect.BusinessLayer\\Exceptions\\AdminNotFoundException.cs",
+              "RelativeToolTip": "CarConnect.BusinessLayer\\Exceptions\\AdminNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:38:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\Car connect\\MainModule.cs",
+              "RelativeDocumentMoniker": "Car connect\\MainModule.cs",
+              "ToolTip": "C:\\Users\\ADARSH SHARMA\\Desktop\\case study\\oops part\\Car connect\\Car connect\\MainModule.cs",
+              "RelativeToolTip": "Car connect\\MainModule.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:37:51.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
